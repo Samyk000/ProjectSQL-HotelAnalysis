@@ -1,1 +1,1 @@
-# ProjectSQL-HotelAnalysis
+"During my internship with Mentorness, I tackled a Hotel Reservation SQL project. Using SQL queries, I analyzed a dataset to solve various challenges, such as determining total reservations, popular meal plans, average room prices, and other key insights. This project was an excellent opportunity to hone my SQL skills and apply them to real-world scenarios."
